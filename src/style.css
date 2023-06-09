@@ -1,0 +1,32 @@
+h1{
+    background-color: red;
+    border-radius: 15px;
+    color:white;
+    padding: 3px;
+    font-family: 'Courier New';
+    box-shadow: 3px 5px #115104;
+    text-shadow: 1px 2px #115104;;
+}
+
+button{
+    background-color: green;
+    border: none;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 3px 5px #115104;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+}
+h2{
+    color: #115104;
+}
+img{
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+}
